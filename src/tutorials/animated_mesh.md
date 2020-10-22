@@ -58,7 +58,7 @@ Other animations are intended to be used once, and then let the mesh return to t
 
 ## Equipment
 
-Animated meshes cannot use actually **Equipment** objects the way players are, but the objects can be attached to different sockets on an animated mesh the same way equipment is attached to players.
+Animated meshes cannot use actual **Equipment** objects the way players are, but the objects can be attached to different sockets on an animated mesh the same way equipment is attached to players.
 
 The **Bind Pose** animation stance is designed to make it easy to determine where objects should be positioned relative to the mesh.
 
